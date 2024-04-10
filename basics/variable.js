@@ -1,7 +1,6 @@
 
-const chai =  () => {
-    const i = "hitesh"
-    console.log(this.username);
+function hello(){
+    console.log('hello')
 }
-chai()
+hello();
 
