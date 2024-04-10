@@ -1,6 +1,6 @@
 
-function hello(){
+function fun(){
     console.log('hello')
 }
-hello();
+fun();
 
